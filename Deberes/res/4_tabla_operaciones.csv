@@ -1,8 +1,3 @@
-Operacion|Descripcion
-a + b|suma a y b
-a - b|resta a menos b
-a / b|a dividido
-a // b|a dividido entre b (quitando decimales)
-a % b|devuelve el resto de la división a/b (modulus)
-a * b|a multiplicado por b
-a ** b|a elevado a b
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8dd1da0c5ceacef44d72e7f2ed5ade910a2665c60c57a3d119d45b55bfc1fcd
+size 243
